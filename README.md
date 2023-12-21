@@ -46,7 +46,7 @@ Para obtener información detallada sobre la aplicación, incluyendo su polític
 
 ## Contribuciones
 
-Este proyecto se desarrolló como parte de un trabajo de final de grado, por lo que no acepta contribuciones externas en el repositorio. Sin embargo, si tienes comentarios o sugerencias sobre la aplicación, ¡estaré encantado de escucharlos y responderlos!
+Este proyecto se desarrolló como parte de un trabajo de final de grado, por lo que no acepta contribuciones externas en el repositorio. Sin embargo, si tienes comentarios o sugerencias sobre la aplicación, ¡estaré encantada de escucharlos y responderlos!
 
 ## Soporte
 
